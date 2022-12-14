@@ -3,7 +3,7 @@
 - House Price Prediction
 - Matching of Amazon and Flipkart Products
 
-## Libraries & Frameworks Used
+## Libraries & Frameworks
 - For Task 1: House Price Prediction
   - Numpy
   - Pandas
