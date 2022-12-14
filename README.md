@@ -13,6 +13,6 @@
   - Scipy
 
 - For Task 2: Product Matching
-  - PyTorch
-  - Sentence Transformers
+  - Fuzzymatcher
   - Pandas
+
